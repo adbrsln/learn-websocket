@@ -1,0 +1,17 @@
+{
+    "name": "omega/websocket",
+    "authors": [
+        {
+            "name": "muhammad adib bin ahmad roslan",
+            "email": "adbroslan@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "websocket\\": "src"
+        }
+    },
+    "require": {
+        "cboden/ratchet": "^0.4"
+    }
+}
